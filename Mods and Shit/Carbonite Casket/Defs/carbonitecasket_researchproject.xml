@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<ResearchProjectDef>
+		<defName>Ferny_CryptotombCasket</defName>
+		<label>Carbonite casket</label>
+		<description>Build a self-powered sarcophagi that preserves people in suspended animation.</description>
+		<baseCost>1500</baseCost>
+		<techLevel>Spacer</techLevel>
+		<researchViewX>16</researchViewX>
+		<researchViewY>2.40</researchViewY>
+		<prerequisites>
+			<li>Cryptosleep</li>
+		</prerequisites>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<requiredResearchFacilities>
+			<li>MultiAnalyzer</li>
+		</requiredResearchFacilities>
+	</ResearchProjectDef>
+</Defs>

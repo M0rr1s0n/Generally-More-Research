@@ -35,6 +35,8 @@
     <li IfModActive="zal.hamsterwheelgenerator">Mods and Shit/Hamster Wheel Generator</li>
     <li IfModActive="flashpoint55.humanpowergeneratormod">Mods and Shit/Human Power Generator Mod</li>
     <li IfModActive="maux36.rimbody">Mods and Shit/RimBody</li>
+    <li IfModActive="alma.carbonitecasket">Mods and Shit/Carbonite Casket</li>
+    <li IfModActiveAll="alma.carbonitecasket,ferny.consistenttext">Mods and Shit/Carbonite Casket/Consistent Text</li>
     <!-- DSR The Following -->
     <li IfModActive="dprtf.darkpsychicrituals.sentinel">Mods and Shit/Dark Psychic Rituals The Following/Common</li>
     <li IfModActiveAll="dprtf.darkpsychicrituals.sentinel,Ludeon.Rimworld.Royalty">Mods and Shit/Dark Psychic Rituals The Following/Royalty</li>

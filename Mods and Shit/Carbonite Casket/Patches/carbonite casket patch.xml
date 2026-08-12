@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="CarboniteCasket"]</xpath>
+		<value>
+			<researchPrerequisites>
+				<li>Ferny_CryptotombCasket</li>
+			</researchPrerequisites>
+		</value>
+	</Operation>
+
+</Patch>
